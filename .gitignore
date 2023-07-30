@@ -1,0 +1,9 @@
+# Fichiers et dossiers à ignorer
+/target/
+/.idea/
+/.vscode/
+.DS_Store
+*.iml
+*.ipr
+*.iws
+/ressources/
